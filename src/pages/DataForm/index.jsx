@@ -18,7 +18,7 @@ export class index extends Component {
       ruang: '',
       kapasitas: '',
     };
-    this.url = 'http://192.168.1.4/react-native/api.php';
+    this.url = 'http://danangwisnu.my.id/pbp/api.php';
   }
 
   componentDidMount() {
